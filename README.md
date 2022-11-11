@@ -1,2 +1,3 @@
 Assignment Name: Photography.LTD 
-Developer: Aisf Mahmud
+Developer: Aisf Mahmud.
+Used language: JavaScript, Css. Library: React
