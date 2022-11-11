@@ -1,0 +1,43 @@
+[
+    {
+        
+        "service_id": "01",
+        "name": "Regular Combo Packages",
+        "Details": "Regular Combo Packages\n\n#Package-01(Simple Plan)\n1 Photographer + 1 Cinematographer\n\n1 Event - 10,000/-\n2 Event - 20,500/-\n3 Event - 30,500/\n\n#Package-02 (Regular Plan)\n1 Senior Photographer + 1 Cinematographer\n\n1 Event - 13,000/-\n2 Event - 26,500/-\n3 Event - 38,500/",
+        "images": "https://i.ibb.co/tJ9SLDb/wimg2.jpg"
+    },
+    {
+        
+        "service_id": "02",
+        "name": "Regular Photography Packages",
+        "Details": "#Package-01(Simple Plan)\n1 Photographer \n\n1 Event - 6,000/-\n2 Event - 10,500/-\n3 Event - 14,500/\n\n#Package-02 (Regular Plan)\n2 Photographer\n\n1 Event - 10,500/-\n2 Event - 20,500/-\n3 Event - 28,500/\n",
+        "images": "https://i.ibb.co/PzdZfdC/wimg1.jpg"
+    },
+    {
+        
+        "service_id": "03",
+        "name": "Regular Cinematography Packages",
+        "Details": "#Package-01(Simple Plan)\n1  Cinematographer\n\n1 Event - 6,500/-\n2 Event - 12,500/-\n3 Event - 17,500/\n\n#Package-02 (Regular Plan)\n2  Top Cinematographer\n\n1 Event - 12,500/-\n2 Event - 24,500/-\n3 Event - 35,500/",
+        "images": "https://i.ibb.co/XD5KczH/wimg3.jpg"
+    },
+    {
+        "service_id": "04",
+        "name": "Regular Combo Packages",
+        "Details": "#Package-01(Simple Plan)\n1  Cinematographer + 1 Photographer\n\n1 Event - 10,500/-\n2 Event - 16,500/-\n3 Event - 20,500/\n\n#Package-02 (Regular Plan)\n2  Senior Cinematographer + 1 Photographer\n\n1 Event - 20,500/-\n2 Event - 24,500/-\n3 Event - 32,500/",
+        "images": "https://i.ibb.co/GWmv5v9/wimg4"
+    },
+    {
+        
+        "service_id": "05",
+        "name": "Premium Packages",
+        "Details": "#Package-01(Simple Plan)\n2 Cinematographer + 2 Photographer\n\n1 Event - 30,00/-\n2 Event - 50,00/-\n3 Event - 750,00/\n\n#Package-02 (Regular Plan)\n2 Senior Cinematographer + 2 Senior Photographer\n\n1 Event - 70,500/-\n2 Event - 84,500/-\n3 Event - 92,500/",
+        "images": "https://i.ibb.co/pQDXLL3/wimg5.jpg"
+    },
+    {
+        
+        "service_id": "06",
+        "name": "Basic Packages",
+        "Details": "#Package-01(Simple Plan)\n1 Photographer\n\n1 Event - 5,00/-\n2 Event - 7,00/-\n3 Event - 12,00/\n\n#Package-02 (Regular Plan)\n2 Senior Photographer\n\n1 Event - 7,500/-\n2 Event - 12,500/-\n3 Event - 15,500/",
+        "images": "https://i.ibb.co/Wf6yMMq/wimg6.jpg"
+    }
+]
